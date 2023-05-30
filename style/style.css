@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+#hava-durumu {
+    margin: 20px auto;
+    width: 600px;
+    text-align: center;
+}
+
+#hava-durumu img {
+    width: 100px;
+    height: 100px;
+}
+
+#hava-durumu p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #666;
+}
